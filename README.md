@@ -1,6 +1,8 @@
 <h1 align="center">Pig Game🐷</h1>
 <h2 align="center">Project description</h2>
 
+![1](https://github.com/ABurkas/YouTube_Clone_Project/blob/YouTube_Clone_Project/screenshots/screenshot_1.png)
+
 The Pig Game is a simple web-based game that demonstrates basic HTML, CSS, and JavaScript skills. This project showcases a two-player game where players take turns rolling a dice to accumulate points. 
 The goal is to be the first player to reach a score of 100 or a designated winning score.
 
